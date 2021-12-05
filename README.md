@@ -1,3 +1,5 @@
+//OUTDATED, DOESN'T WORK ANYMORE//
+
 # Friendlybot
 ## A chatbot for riverschat
 
